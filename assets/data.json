@@ -1,0 +1,63 @@
+{
+    "Images": {
+        "1.jpg": {
+            "url": "assets/DevelopmentPanorama/1.jpg",
+            "Hotspot": {
+                "29B17926-9826-4838-8225-06BFE8FC77F3": {
+                    "position": [
+                        435.5468181313989,
+                        191.22287473806327,
+                        -58.5498841886849
+                    ],
+                    "actionImage": "2.jpg",
+                    "cameraAnim": "left",
+                    "uuid": "29B17926-9826-4838-8225-06BFE8FC77F3"
+                },
+                "A68F83FE-08B9-46C3-9C22-4D73A81E7FE4": {
+                    "position": [
+                        300.7271829965045,
+                        -193.40985814800646,
+                        348.8415781332824
+                    ],
+                    "actionImage": "4.jpg",
+                    "cameraAnim": "left",
+                    "uuid": "A68F83FE-08B9-46C3-9C22-4D73A81E7FE4"
+                }
+            }
+        },
+        "2.jpg": {
+            "url": "assets/DevelopmentPanorama/2.jpg",
+            "Hotspot": {
+                "29B17926-9826-4838-8225-06BFE8FC77F3": {
+                    "position": [
+                        435.5468181313989,
+                        191.22287473806327,
+                        -58.5498841886849
+                    ],
+                    "actionImage": "3.jpg",
+                    "cameraAnim": "left",
+                    "uuid": "29B17926-9826-4838-8225-06BFE8FC77F3"
+                },
+                "A68F83FE-08B9-46C3-9C22-4D73A81E7FE4": {
+                    "position": [
+                        300.7271829965045,
+                        -193.40985814800646,
+                        348.8415781332824
+                    ],
+                    "actionImage": "1.jpg",
+                    "cameraAnim": "left",
+                    "uuid": "A68F83FE-08B9-46C3-9C22-4D73A81E7FE4"
+                }
+            }
+        },
+        "3.jpg": {
+            "url": "assets/DevelopmentPanorama/3.jpg"
+        },
+        "4.jpg": {
+            "url": "assets/DevelopmentPanorama/4.jpg"
+        },
+        "5.jpg": {
+            "url": "assets/DevelopmentPanorama/5.jpg"
+        }
+    }
+}
